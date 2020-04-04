@@ -1,2 +1,2 @@
 # WaterRings
-WP7 game
+Unity3D game
